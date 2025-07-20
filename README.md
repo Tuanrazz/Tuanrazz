@@ -38,11 +38,20 @@ I love building stuff that blends **logic, art, and chaos** into one beautiful m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right:10px;" />
 </p>
 
-📫 **Let's Connect**  
-- 🌐 Blog: [rackwanzz3.blogspot.com](https://rackwanzz3.blogspot.com)  
-- 🐱 GitHub: [@Tuanrazz](https://github.com/Tuanrazz)  
-- 🎥 YouTube / TikTok: @codedess  
-- 💌 Email: techdigi0101@gmail.com
+## 📫 Let's Connect
 
----
+<p align="left">
+  <a href="https://rackwanzz3.blogspot.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-rackwanzz3-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://github.com/Tuanrazz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Tuanrazz-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@codedess" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@codedess-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.tiktok.com/@codedess" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@codedess-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+</p>
 
