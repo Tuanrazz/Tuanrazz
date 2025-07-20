@@ -62,6 +62,12 @@
 
 ![Tuanrazz's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tuanrazz&theme=react-dark&hide_border=true)
 
+**HTML**  
+![HTML](https://progress-bar.dev/90/?title=HTML)
+
+**JavaScript**  
+![JS](https://progress-bar.dev/75/?title=JS)
+
 ## 🏆 GitHub Trophy
 
 <p align="center">
