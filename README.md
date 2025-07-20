@@ -12,10 +12,9 @@
 
 🧠 **Who is Tuanrazz?**
 
-I'm a passionate fullstack developer, ethical hacker, and tech explorer from Indonesia 🇮🇩.  
-I love building stuff that blends **logic, art, and chaos** into one beautiful mess called *code*.
+**I'm a passionate fullstack developer, ethical hacker, and tech explorer from Indonesia 🇮🇩.**
 
-> "My world runs on caffeine, terminal, and late-night commits."
+> "wonders of the world of the mind."
 
 ---
 
