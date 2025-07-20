@@ -68,5 +68,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Tuanrazz&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </p>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake.svg)
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Follow+for+more+tech+content!;Stay+awesome+%F0%9F%92%AA" alt="typing svg" />
 
