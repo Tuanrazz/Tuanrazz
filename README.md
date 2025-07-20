@@ -67,6 +67,57 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tuanrazz&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </p>
+<h2>💼 Paket Harga Project</h2>
+
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color:#1e1e2f; color:#fff;">
+      <th style="padding:10px; border: 1px solid #444;">💻 Jenis Project</th>
+      <th style="padding:10px; border: 1px solid #444;">💸 Harga Mulai</th>
+      <th style="padding:10px; border: 1px solid #444;">⏱️ Estimasi</th>
+      <th style="padding:10px; border: 1px solid #444;">✍️ Keterangan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px; border: 1px solid #444;">🌐 Website Portofolio</td>
+      <td style="padding:10px; border: 1px solid #444;">Rp 300.000</td>
+      <td style="padding:10px; border: 1px solid #444;">2 - 4 hari</td>
+      <td style="padding:10px; border: 1px solid #444;">Desain responsif, animasi, dark mode</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid #444;">🛒 Web E-Commerce</td>
+      <td style="padding:10px; border: 1px solid #444;">Rp 750.000</td>
+      <td style="padding:10px; border: 1px solid #444;">5 - 10 hari</td>
+      <td style="padding:10px; border: 1px solid #444;">Login, keranjang, backend Firebase/API</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid #444;">🧠 AI Chatbot</td>
+      <td style="padding:10px; border: 1px solid #444;">Rp 600.000</td>
+      <td style="padding:10px; border: 1px solid #444;">3 - 7 hari</td>
+      <td style="padding:10px; border: 1px solid #444;">Menggunakan OpenAI API atau Gemini API</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid #444;">🕹️ Game Web (HTML/JS)</td>
+      <td style="padding:10px; border: 1px solid #444;">Rp 400.000</td>
+      <td style="padding:10px; border: 1px solid #444;">3 - 6 hari</td>
+      <td style="padding:10px; border: 1px solid #444;">Game seperti Snake, RPS, Memory Card</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid #444;">🔐 Tools Cybersecurity</td>
+      <td style="padding:10px; border: 1px solid #444;">Rp 500.000</td>
+      <td style="padding:10px; border: 1px solid #444;">4 - 7 hari</td>
+      <td style="padding:10px; border: 1px solid #444;">Edukasi, port scanner, bruteforce legal</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid #444;">🧾 Sistem CRUD (Admin)</td>
+      <td style="padding:10px; border: 1px solid #444;">Rp 450.000</td>
+      <td style="padding:10px; border: 1px solid #444;">3 - 5 hari</td>
+      <td style="padding:10px; border: 1px solid #444;">Login, tambah/edit/hapus, Firebase/DB</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Follow+for+more+tech+content!;Stay+awesome+%F0%9F%92%AA" alt="typing svg" />
 
