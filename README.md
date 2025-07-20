@@ -1,5 +1,5 @@
-<!-- 🔥 GIF Pria Bertema Coding Neon -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRjYmM5dDg2bGU4YjZ2cmlmeDRvOXY0ZWl4NWkyaGV0aHYzNGd0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yoJC2Olx0ekMy2nX7W/giphy.gif" width="100%" />
+
+<img src="https://media.giphy.com/media/yoJC2Olx0ekMy2nX7W/giphy.gif" width="100%" />
 
 <!-- ⌨️ Typing Animation - Font Digital -->
 <p align="center">
