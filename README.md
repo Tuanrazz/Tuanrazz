@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Tuanrazz.;Fullstack+Dev+%7C+Cyber+Enthusiast.;Dark+mode+and+code+forever+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
-</p>
+<!-- ✨ GIF Cyberpunk Neon -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<!-- ⌨️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=I'm+Tuanrazz+%E2%80%94+an+ethical+hacker+%7C+programmer" alt="Typing SVG" />
+</p>
 
 <h3 align="center">I code with style, break limits, and vibe with dark mode 🌑</h3>
 
