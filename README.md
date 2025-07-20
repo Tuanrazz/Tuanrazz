@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Tuanrazz.;Fullstack+Dev+%7C+Cyber+Enthusiast.;Dark+mode+and+code+forever+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+</p>
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 <h3 align="center">I code with style, break limits, and vibe with dark mode 🌑</h3>
@@ -15,36 +19,35 @@ I love building stuff that blends **logic, art, and chaos** into one beautiful m
 
 🚀 **What I Do**
 
-- 🔐 Exploring cybersecurity and ethical hacking
-- 🧪 Building experimental web & mobile apps
-- 💬 Talking to AI like it's my second brain
-- 🎮 Creating mini games with JavaScript, Canvas, and weird ideas
-- 🌌 Playing with particles, shaders, and animated UI
+- 🔐 Exploring cybersecurity and ethical hacking  
+- 🧪 Building experimental web & mobile apps  
+- 💬 Talking to AI like it's my second brain  
+- 🎮 Creating mini games with JavaScript, Canvas, and weird ideas  
+- 🌌 Playing with particles, shaders, and animated UI  
 
 ---
 
-📊 **Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuanrazz&show_icons=true&theme=tokyonight)
+📊 **Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuanrazz&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanrazz&layout=compact&theme=tokyonight)
 
 ---
 
-💻 **Tech I Use**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+💻 **Tech I Use**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
 
 ---
 
-📫 **Let's Connect**
-
-- 🌐 Blog: [rackwanzz3.blogspot.com](https://rackwanzz3.blogspot.com)
-- 🐱 GitHub: [@Tuanrazz](https://github.com/Tuanrazz)
-- 🎥 YouTube / TikTok: @codedess
+📫 **Let's Connect**  
+- 🌐 Blog: [rackwanzz3.blogspot.com](https://rackwanzz3.blogspot.com)  
+- 🐱 GitHub: [@Tuanrazz](https://github.com/Tuanrazz)  
+- 🎥 YouTube / TikTok: @codedess  
 - 💌 Email: techdigi0101@gmail.com
 
 ---
