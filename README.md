@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Tuanrazz.;Coding+with+Style+and+Dark+Mode+🖤" alt="Typing SVG" />
 </p>
+
 <h3 align="center">I code with style, break limits, and vibe with dark mode 🌑</h3>
 
 ---
