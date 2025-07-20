@@ -19,15 +19,6 @@ I love building stuff that blends **logic, art, and chaos** into one beautiful m
 
 ---
 
-🚀 **What I Do**
-
-- 🔐 Exploring cybersecurity and ethical hacking  
-- 🧪 Building experimental web & mobile apps  
-- 💬 Talking to AI like it's my second brain  
-- 🎮 Creating mini games with JavaScript, Canvas, and weird ideas  
-- 🌌 Playing with particles, shaders, and animated UI  
-
----
 
 📊 **Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuanrazz&show_icons=true&theme=tokyonight)  
@@ -35,16 +26,17 @@ I love building stuff that blends **logic, art, and chaos** into one beautiful m
 
 ---
 
-💻 **Tech I Use**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+## 💻 Tech I Use
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right:10px;" />
+</p>
 
 📫 **Let's Connect**  
 - 🌐 Blog: [rackwanzz3.blogspot.com](https://rackwanzz3.blogspot.com)  
@@ -54,4 +46,3 @@ I love building stuff that blends **logic, art, and chaos** into one beautiful m
 
 ---
 
-🕶️ *"They call it madness, I call it programming at 2 AM."*
