@@ -1,9 +1,9 @@
-
-<img src="https://media.giphy.com/media/yoJC2Olx0ekMy2nX7W/giphy.gif" width="100%" />
+<!-- 🌌 Neon Programmer GIF Paling Atas -->
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
 <!-- ⌨️ Typing Animation - Font Digital -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Digital-7&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=I'm+Tuanrazz" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Digital-7&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=400&lines=I'm+Tuanrazz" alt="Typing SVG" />
 </p>
 
 <h3 align="center">I code with style, break limits, and vibe with dark mode 🌑</h3>
