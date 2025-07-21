@@ -3,7 +3,7 @@
 
 <!-- ⌨️ Typing Animation - Font Digital -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Digital-7&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=400&lines=I'm+Tuanrazz" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF00FF,00FFFF&center=true&vCenter=true&width=500&lines=I'm+Tuanrazz" />
 </p>
 
 <h3 align="center">I code with style🌑</h3>
