@@ -46,9 +46,6 @@
   <a href="https://github.com/Tuanrazz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Tuanrazz-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.youtube.com/@codedess" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-@codedess-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
   <a href="https://www.tiktok.com/@codedess" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-@codedess-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
