@@ -53,7 +53,6 @@
 
 ![Tuanrazz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuanrazz&show_icons=true&theme=radical&hide_border=true)
 
-![Tuanrazz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tuanrazz&theme=radical&hide_border=true)
 
 ![Tuanrazz's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tuanrazz&theme=react-dark&hide_border=true)
 
