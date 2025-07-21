@@ -120,8 +120,9 @@
 </table>
 
 
-
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Follow+for+more+tech+content!;Stay+awesome+%F0%9F%92%AA" alt="typing svg" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,react,cpp,java,bash" />
