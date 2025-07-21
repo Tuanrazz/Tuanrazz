@@ -66,7 +66,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src=https://github-profile-trophy.vercel.app/?username=tuanrazz&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
+  <img src=https://github-profile-trophy.vercel.app/?username=deaafrizal&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
 </p>
 <h2>💼 Paket Harga Project</h2>
 
