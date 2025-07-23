@@ -25,7 +25,7 @@
 
 ## 💻 Tech I Use
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;" />
@@ -37,7 +37,7 @@
 
 ## 📫 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://rackwanzz3.blogspot.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-rackwanzz3-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog"/>
   </a>
@@ -63,7 +63,7 @@
 <p align="center">
   <img src=https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
 </p>
-<h2>💼 Paket Harga Project</h2>
+<h2 align="center">💼 Paket Harga Project</h2>
 
 <table style="width:100%; border-collapse: collapse;">
   <thead>
